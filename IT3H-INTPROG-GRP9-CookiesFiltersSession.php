@@ -69,7 +69,7 @@
                     <br>
                     <p><b>Name:</b> <u><?php echo htmlspecialchars($_SESSION['name']); ?></u></p>
                     <p><b>Email:</b> <u><?php echo htmlspecialchars($_SESSION['email']); ?></u></p>
-                <?php endif; ?>
+                <?php endif; ?> 
             </div>
 
         </div>
